@@ -1,4 +1,4 @@
-# 2023-CMS-EnhancedActiveLearning
+# 2024-CMS-Applying enhanced active learning to predict formation energy
 
 ## 1. Paper Information
 
